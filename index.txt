@@ -1,0 +1,123 @@
+Selezionare un CD di jazz da ascoltare.
+Prendiamo il raccoglitore,
+Lo apriamo,
+SE il raccoglitore che prendiamo contiene Musica Jazz lo sfogliamo,
+scegliere il CD che vogliamo,
+lo prendiamo,
+lo inseriamo,
+schiacciamo play,
+ci ascoltiamo la musica Jazz
+
+
+altrimenti se il raccoglitore che prendiamo non contiene Musica Jazz,
+non lo sfogliamo, 
+Prendiamo un nuovo raccoglitore
+
+Scegliere un articolo da leggere dal Feed di Facebook
+
+let email = "email@email.it"
+let password = "pippo"
+let emailScrittaUtente = "alberi@gmail.it"
+let passwordScrittaUtente = "pippo"
+
+Sbloccare lo Smartphone con FaceID
+Cercare Facebook
+Effettuare Login con email e Password
+if ( email e password sono corretti ){
+    Scrollare il menu
+    Cliccare su "Feed"
+    Scegliere l'articolo preferito
+    Leggere l'articolo
+}
+
+-Entrambi in errore-
+(If) email (and) password non sono corretti,
+Correggo email e password,
+
+
+if( email (and) password non sono corretti ){
+    Correggo email e password,
+} else if( Email è sbagliata ) {
+    faccio correzione email
+} else if (Password è sbagliata){
+    faccio correzione Password
+} else {
+    qualcosa è andato storto
+}
+
+operatore logico NOT !
+
+if( emailScrittaUtente !=== email &&(AND) passwordScrittaUtente !=== password){ --> true, false
+    Correggo email e password,
+} else if( emailScrittaUtente !===(non è uguale) email ) { -->true
+    faccio correzione email
+} else if (passwordScrittaUtente !==== password){ -->false
+    faccio correzione Password
+} else {
+    qualcosa è andato storto
+}
+
+
+
+if( emailScrittaUtente === email &&(AND) passwordScrittaUtente === password){ 
+    ACCEDI
+} else {
+    attenzione modifica password o email perche sbagliate
+}
+
+
+
+Es. 
+Accendere la stampante,
+
+Se si accende procedere,
+
+Altrimenti se non funziona controlla la presa attaccata,
+
+<---->
+
+Prendere il documento, 
+
+Se il documento non è inerente,
+
+prendi il documento inerente,
+
+<---->
+
+Aprire il vano per la scansione,
+
+Se è libera inseriamo il documento,
+
+Altrimenti se non è presente sostituire il documento,
+
+<---->
+
+Scansioniamo il fronte del documento
+
+Se il documento viene scnsionato correttamente proseguire,
+
+Altrimenti riscansionare
+
+<---->
+
+Scansioniamo il retro del documento,
+
+Se il documento viene scnsionato correttamente proseguire,
+
+<---->
+
+Dare  la corretta nomeclatura al file
+
+Altrimenti riscansionare
+
+
+
+
+
+
+
+
+
+
+
+
